@@ -1,0 +1,8 @@
+.vscode/
+env/
+src/EVApy/__pycache__/
+dist/
+src/EVApy.egg-info/
+.python-version
+build/
+tests/
